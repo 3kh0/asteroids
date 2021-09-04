@@ -1,6 +1,5 @@
-# asteroids
-Play asteroids in your browesr
-Please do not crash, I have to pay for the ships.
+HTML5-Asteroids
+===============
 
-Launch game:
-[Click here to start game](https://3kh0.github.io/asteroids/)!
+Pure Javascript Asteroids, based on http://dougmcinnes.com/2010/05/12/html-5-asteroids/ 
+Source https://github.com/dmcinnes/HTML5-Asteroids
